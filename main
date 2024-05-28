@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BJJ Gameplan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 50%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 10px;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">BJJ Gameplan</h1>
+    <table>
+        <tr>
+            <th>Guard</th>
+            <th>Side Control</th>
+            <th>Mount</th>
+        </tr>
+        <tr>
+            <td>Guard</td>
+            <td>Side Control</td>
+            <td>Rear Mount</td>
+        </tr>
+    </table>
+</body>
+</html>
